@@ -1,2 +1,5 @@
-# Interface_Etapa_02
-repositório dedicado a elaboração da atividade avaliativa da etapa 2.
+# Atividade Prática - Etapa 02 - Interface de Usuários
+>Repositório criado para a demonstração de WebSite, matéria de Interface de Usuários, do Professor Pedro Iuri 
+#### Alunos:
+##### [Anderson Pedro](http://lattes.cnpq.br/5480090750325383) e [Ryckson Diego]( http://lattes.cnpq.br/9962994617885089)
+

@@ -1,5 +1,8 @@
 # Atividade Prática - Etapa 02 - Interface de Usuários
->Repositório criado para a demonstração de WebSite, matéria de Interface de Usuários, do Professor Pedro Iuri 
+>Repositório criado para a demonstração de WebSite
+>>Matéria: Interface de Usuários
+>>>Professor: Pedro Iuri
+#0969DA
 #### Alunos:
 ##### [Anderson Pedro](http://lattes.cnpq.br/5480090750325383) e [Ryckson Diego]( http://lattes.cnpq.br/9962994617885089)
 

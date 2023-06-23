@@ -2,7 +2,5 @@
 >Repositório criado para a demonstração de WebSite
 >>Matéria: Interface de Usuários
 >>>Professor: Pedro Iuri
-#0969DA
 #### Alunos:
 ##### [Anderson Pedro](http://lattes.cnpq.br/5480090750325383) e [Ryckson Diego]( http://lattes.cnpq.br/9962994617885089)
-

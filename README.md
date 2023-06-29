@@ -13,3 +13,7 @@
 [^2]: História contada a partir de ilustrações
 
 [^3]: 
+
+##### Requisitos [^4] [^5]
+[^4]: Template escolhido: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/#download
+[^5]: Design inicial: https://www.canva.com/design/DAFnOoTQfBs/hhfZbuJh0JrDj9zoDVqF8w/edit?utm_content=DAFnOoTQfBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

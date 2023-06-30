@@ -3,15 +3,22 @@
 >
 >Matéria: Interface de Usuários
 >
->Professor: Pedro Iuri
+>Professor: [Pedro Iuri](http://lattes.cnpq.br/9355546222740220)
+
+#### Requisitos
+
+- [Template bootstrap escolhido](https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/#download)
+
+- [Designs/ideias iniciais](https://www.canva.com/design/DAFnOoTQfBs/hhfZbuJh0JrDj9zoDVqF8w/edit?utm_content=DAFnOoTQfBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+) 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Alunos:
 ##### [Anderson Pedro](http://lattes.cnpq.br/5480090750325383) e [Ryckson Diego]( http://lattes.cnpq.br/9962994617885089)
 
-#### Objetivos do trabalho [^1] [^2]
-[^1]: Falar sobre a história da fundação de Caicó através dos mitos
+#### Objetivos do trabalho:
 
-[^2]: Mitos ilustrados com inteligência artificial
+- Falar sobre a história da fundação de Caicó através dos mitos
 
-##### Requisitos [^4] [^5]
-[^4]: Template escolhido: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/#download
-[^5]: Design inicial: https://www.canva.com/design/DAFnOoTQfBs/hhfZbuJh0JrDj9zoDVqF8w/edit?utm_content=DAFnOoTQfBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Mitos ilustrados com inteligência artificial

@@ -17,10 +17,10 @@
 #### Alunos:
 ##### [Anderson Pedro](http://lattes.cnpq.br/5480090750325383) e [Ryckson Diego]( http://lattes.cnpq.br/9962994617885089)
 
-#### Objetivos do trabalho:
+#### Sobre o trabalho:
 
-- Falar sobre a história da fundação de Caicó através dos mitos
+- Falamos sobre a história da fundação de Caicó através dos mitos.
 
-- Mitos ilustrados com inteligência artificial
+- Mitos ilustrados com inteligência artificial.
 
 #### OBS: Para ver o trabalho da gente, vá em 'MAIN' e escolha 'MASTER', NOSSO TRABALHO ESTÁ LÁ PRONTO PARA VOCÊ VER :thumbsup: :thumbsup:

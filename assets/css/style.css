@@ -455,13 +455,29 @@ h6 {
   font-size: 24px;
 }
 
+#cap1{
+  background-image: url("../img/cards/card-cap1.jpg");
+}
+#cap1-init{
+  background-image: url("../img/chapters/cap1-part1.png");
+}
+#cap2{
+  background-image: url("../img/cards/card-cap2.jpg");
+}
+
 #hero .icon-box {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   padding: 30px 20px;
   transition: ease-in-out 0.3s;
   border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
   height: 100%;
+  width: 100%;
   text-align: center;
 }
+
 
 #hero .icon-box i {
   font-size: 32px;
@@ -470,6 +486,8 @@ h6 {
 }
 
 #hero .icon-box h3 {
+  position:relative;
+  top: 70%;
   font-weight: 700;
   margin: 10px 0 0 0;
   padding: 0;
@@ -479,16 +497,29 @@ h6 {
 }
 
 #hero .icon-box h3 a {
-  color: #fff;
+  color: transparent;
+  transition: ease-in-out 0.3s;
+}
+#hero .icon-box:hover h3 a {
+  color: white;
   transition: ease-in-out 0.3s;
 }
 
 #hero .icon-box h3 a:hover {
+  
   color: #ffc451;
 }
 
+
+
 #hero .icon-box:hover {
   border-color: #ffc451;
+  height: 120%;
+  width: 150%;
+  background-size: 120%;
+  position: relative;
+  bottom: 50px;
+  right: 50px;
 }
 
 @media (min-width: 1024px) {
@@ -759,6 +790,8 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  height: 50px;
+  width: 100%;
 }
 
 .portfolio #portfolio-flters {
@@ -828,14 +861,14 @@ section {
   transition: all ease-in-out 0.3s;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: center;
   padding: 20px;
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #fff;
+  color: black;
   font-weight: 600;
 }
 

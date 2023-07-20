@@ -11,7 +11,7 @@
 
 - [Designs/ideias iniciais](https://www.canva.com/design/DAFnOoTQfBs/hhfZbuJh0JrDj9zoDVqF8w/edit?utm_content=DAFnOoTQfBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ) 
-
+- [Relatório do nosso projeto](https://docs.google.com/document/d/1o1qwt0a4Rxz55x91S8hHpAOlCiHdpdt-E5kWNgdc-Q0/edit?usp=sharing)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Alunos:

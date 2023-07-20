@@ -460,11 +460,30 @@ h6 {
 }
 #cap1-init{
   background-image: url("../img/chapters/cap1-part1.png");
+  background-size: cover;
+  background-position: center;
 }
-#cap2{
-  background-image: url("../img/cards/card-cap2.jpg");
+.img-fluid{
+  width: auto;
 }
 
+@keyframes flutuando {
+  from {
+    transform: scale(1); /* Começa na posição inicial */
+  }
+  to {
+    transform: scale(1.5); /* Termina em uma posição flutuante */
+  }
+}
+#cap2{
+  background-image: url("../img/cards/card-cap2.png");
+}
+#cap3{
+  background-image: url("../img/cards/card-cap3.png");
+}
+#cap4{
+  background-image: url("../img/cards/card-cap4.png");
+}
 #hero .icon-box {
   background-repeat: no-repeat;
   background-position: center;
@@ -789,10 +808,17 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
+  position: relative;
   margin-bottom: 30px;
-  height: 50px;
+  /* height: 70px;*/
   width: 100%;
 }
+
+.colisao{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 
 .portfolio #portfolio-flters {
   padding: 0;
@@ -829,6 +855,7 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
+  height: 180px;
   z-index: 1;
   background: rgba(21, 21, 21, 0.6);
 }
@@ -853,22 +880,51 @@ section {
 .portfolio .portfolio-wrap .portfolio-info {
   opacity: 0;
   position: absolute;
+  top: 8%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 4;
+  transition: all ease-in-out 0.3s;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: baseline;
+  padding: 20px;
+}
+
+.portfolio .portfolio-wrap .portfolio-text {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  white-space: pre-line;
+  color: white;
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   z-index: 3;
-  transition: all ease-in-out 0.3s;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: end;
   padding: 20px;
+  overflow: hidden;
+  animation: aparecendo 40s cubic-bezier(1, 0.25, 1, 0.9);
+}
+
+@keyframes aparecendo{
+  from{
+    height: 0;
+  }
+  to{
+    height: 100%;
+  }
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: black;
+  color: rgba(255, 255, 255, 0.7);
   font-weight: 600;
 }
 

@@ -22,5 +22,3 @@
 - Falamos sobre a história da fundação de Caicó através dos mitos.
 
 - Mitos ilustrados com inteligência artificial.
-
-#### OBS: Para ver o trabalho da gente, vá em 'MAIN' e escolha 'MASTER', NOSSO TRABALHO ESTÁ LÁ PRONTO PARA VOCÊ VER :thumbsup: :thumbsup:

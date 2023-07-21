@@ -22,3 +22,7 @@
 - Falamos sobre a história da fundação de Caicó através dos mitos.
 
 - Mitos ilustrados com inteligência artificial.
+
+#### Observações do estado do Projeto:
+
+- Está funcionando Normalmente, contudo há um bug no modo de expandir a div que faz com que ela entre em outras div, mas basta apertar no botão app do topo que as divs se reorganizam.

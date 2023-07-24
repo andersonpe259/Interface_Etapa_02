@@ -26,3 +26,4 @@
 #### Observações do estado do Projeto:
 
 - Está funcionando Normalmente, contudo há um bug no modo de expandir a div que faz com que ela entre em outras div, mas basta apertar no botão app do topo que as divs se reorganizam.
+- Atualização do dia 24/07/2023 no index para adicionar referências do projeto.

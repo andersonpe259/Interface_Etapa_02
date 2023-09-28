@@ -18,9 +18,16 @@ body {
   
   background-color: #18d26e;
 }
-
+#teste{
+  position: absolute;
+  top: -250px;
+  left: 0;
+  right: 0;
+  bottom: 0; 
+}
 #pena{
-  width: 50px;
+  width: 50%;
+  filter: hue-rotate(90deg);
 }
 
 a {
